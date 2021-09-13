@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Getting Started with ZappBin React App
 
-#`npm start`
+# `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### Deployment
-#`npm run build` to minify
+# `npm run build` to minify
